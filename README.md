@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niruban2810
-- 👀 I’m interested in ...data science
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning : full stack development
 - 💞️ I’m looking to collaborate on:html,css,javascript
 - 📫 How to reach me:niruban2810@gmail
